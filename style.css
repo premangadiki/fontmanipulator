@@ -1,0 +1,20 @@
+.h1{
+    font-family: 'Fruktur', cursive;
+}
+
+.div1{
+    background-color: black;
+    color:white;
+}
+
+ canvas{
+    box-shadow: 5px 5px 5px grey;
+    border:5px solid black;
+    border-radius:20px;
+}
+
+.copyrightfooter{
+    margin-bottom:0%;
+    background-color: black;
+    color:white;
+}
